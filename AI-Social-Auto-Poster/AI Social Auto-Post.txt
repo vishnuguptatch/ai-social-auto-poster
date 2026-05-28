@@ -1,0 +1,90 @@
+PROJECT NAME:
+AI Social Auto-Poster
+
+VERSION:
+v4
+
+CREATED BY:
+Vishnu
+
+PROJECT OVERVIEW:
+This is an AI-powered social media automation system that automatically finds trending AI news, creates infographic-style images and captions, and posts them on multiple social media platforms without manual work.
+
+MAIN GOAL:
+To automate AI news posting workflow and maintain active social media presence with minimal human effort.
+
+HOW THE AUTOMATION WORKS:
+
+1. Every evening at 7:00 PM the automation gets triggered.
+
+2. Manus AI starts the workflow.
+
+3. Manus AI searches for the latest trending AI news from the internet.
+
+4. The news data is sent to Make.com.
+
+5. Make.com processes the data using multiple modules.
+
+6. AI generates:
+   - SEO-friendly caption
+   - Infographic image
+   - News summary
+
+7. The generated image gets uploaded to Google Drive.
+
+8. Caption is stored inside image description/metadata.
+
+9. At around 7:10 PM:
+   - LinkedIn post is published
+   - Reddit post is published
+   - Pinterest pin is published
+
+10. After posting:
+   - Temporary files are deleted from Google Drive
+   - Workflow ends automatically
+
+TOOLS & SERVICES USED:
+
+- Manus AI
+- Make.com
+- Gemini AI
+- Google Drive
+- ImageBB
+- LinkedIn Module
+- Reddit Module
+- Pinterest Module
+
+SOCIAL MEDIA PLATFORMS:
+- LinkedIn
+- Reddit
+- Pinterest
+
+FEATURES:
+- Fully automated workflow
+- AI-generated infographic posts
+- Automatic caption generation
+- SEO-friendly content
+- Scheduled posting
+- Cloud storage integration
+- Auto cleanup system
+
+BENEFITS:
+- Saves time
+- Consistent posting
+- No manual designing needed
+- No manual caption writing
+- Helps grow social media presence
+- Scalable for more platforms
+
+FUTURE IDEAS:
+- Add X/Twitter support
+- Add Instagram automation
+- Add Threads support
+- Add video generation
+- Multi-language support
+
+STATUS:
+Working Prototype
+
+NOTES:
+This project was originally planned around 1.5 weeks before Version 4 completion.
