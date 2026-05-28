@@ -87,4 +87,4 @@ STATUS:
 Working Prototype
 
 NOTES:
-This project was originally planned around 1.5 weeks before Version 4 completion.
+This project was originally planned around 2 weeks before Version 4 completion that is probably 13 May 2026
